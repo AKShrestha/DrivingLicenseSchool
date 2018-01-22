@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#29b4b4">
+
+            <ImageView
+                android:id="@+id/i"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:layout_gravity="center_horizontal"
+                android:padding="100dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/question" />
+
+            <TextView
+                android:id="@+id/q"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/i"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:text="Nepal Driving License Test"
+                android:textSize="24sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/q"
+                android:layout_centerHorizontal="true"
+                android:layout_margin="10dp"
+                android:text="Version 3.0.0"
+                android:textSize="24sp" />
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="@string/about"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/visit_website"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="?attr/selectableItemBackground"
+            android:text="Visit Website"
+            android:textColor="#56a15a" />
+        <Button
+            android:id="@+id/visit_facebook"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="?attr/selectableItemBackground"
+            android:text="Visit Facebook Page"
+            android:textColor="#56a15a" />
+
+    </LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86874761080",
+    "firebase_url": "https://nepal-driving-license-te-9ac89.firebaseio.com",
+    "project_id": "nepal-driving-license-te-9ac89",
+    "storage_bucket": "nepal-driving-license-te-9ac89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86874761080:android:bef126f0db0394e3",
+        "android_client_info": {
+          "package_name": "com.androidwebviewapp.www.drivinglicensetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86874761080-ju3lmi8vnj0co82890jt62q27lko18q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwW4g_4L7b88nin3Co5akisLXZpeV13sI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Driving License Test</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4873333659657706/9908214617</string>
+    <string name="admob_interstitial_id">ca-app-pub-4873333659657706/7562220878</string>
+    <string name="faq">
+     सवारी तथा यातायात व्यवस्था ऐन, २०४९ अनुसार सवारी चालक अनुमतिपत्र प्राप्त गर्नका लागि दरखास्त दिने व्यक्तिको देहाय बमोजिम अयोग्यता नभएको हुनुपर्नेछ ।
+
+१) ठूलो सवारीको निम्ति २१ वर्षनपुगेको व्यक्ति ।
+२) मझौला तथा साना सवारीको निम्ति १८ वर्ष नपुगेको ।
+३) मोटरर्साईकल तथा त्यस्तै अन्य सानो २ पांग्रे सवारीको हकमा १६ वर्षउमेर नपुगेको ।
+४) छारे रोग भएको वा बौलाएको वा एकाएक रिङ्गटा लाग्ने वा मुर्छा हुने किसिमको रोग भएको व्यक्ति ।
+५) आँखाको देख्ने शक्ति कमजोर भई चश्मा प्रयोग गर्दा पनि सामान्य तवरले देख्ने शक्ति ठीक नभएको व्यक्ति ।
+६) साधारण ध्वनी संकेत, आवाज सुन्न नसक्ने गरी बहिरो भएको व्यक्ति ।
+७) रातो, हरियो, पहेंलो इत्यादि रङ्गहरु तुरुन्त छुट्याउन नसक्ने (Colour Blind), दृष्टिदोष भएको व्यक्ति ।
+८) रतन्धो भएको व्यक्ति ।
+९) हात खुट्टा शक्तिहीन भै काम दिन नसक्ने भएको व्यक्ति । तर, अपाङ्गको निमित्त खास किसिमले बनेको सवारीको निमित्त यो खण्डको बन्देज लागू हुने छैन ।
+१०)ठूलो र मझौला र्सार्वजनिक सवारीको लागि ६० वर्षउमेर पुरा भएको कुनै पनि व्यक्ति ।
+११)सानो सवारी चलाएको २ वर्षपुरा नभएसम्म मझौला र ठूलो सवारी चलाउन चालक अनुमतिपत्र दिईने छैन ।
+१२)नेपाली भाषामा साधारण लेखपढ गर्न नजान्ने ।
+        </string>
+
+    <string name="rules_info">क) यातायात मार्फत जरिवाना हुने कसुरहरुः\n\n
+१.निर्धारित भाडा भन्दा बढी भाडा लिई सवारी चलाएको\n
+२.बाटो ईजाजत पत्र नलिई सार्वजनिक सवारी चलाएको\n
+३.सवारीको स्वरुप परिवर्तन तथा मोडिफाई गरेको\n
+४.वास्तविक नम्बर प्लेट नराखी आफुखुसी नम्बर राख सवारी चलाएको वा चलाउन लगाएको\n\n
+        (ख) रु ५०० जरिवाना हुने कसुरहरु:\n\n
+१.तोकिएको भन्दा बढि मालसामान राखेमा\n
+२. सवारीको वजन हद निर्धारण क्षेत्रमा बढि वजनको सवारी चलाएको\n
+३. सवारीको अन्य भागमा मानिस तथा मालसामान राखेको\n
+४. प्रयोजन बिपरीत सवारी चलाएको\n
+५. हेल्मेट नलगाएको\n
+६. सवारी आवागमनमा बाधा पुरयाएको\n
+७. अरु सवारीलाई खतरा हुने किसिमले सवारी राखेको\n
+८. छतमा यात्रु बोकेको वा राखेको\n\n
+        (ग)रु१०००जरिवानाहुनेकसुरहरु\n\n
+१. सवारीचालक अनुमतिपत्र प्राप्त नगरीसवारी चलाएको\n
+२. सार्वजानिक स्थानमा बाधा पुग्नेगरी मालसामान वा सवारी राखेमा\n
+३. दुर्घटनामा परेको सवारी तथा यात्रीको हानीनोक्सानी पुयाएको वा सम्पर्कमा नआएको\n
+४. मादकपदार्थ सेवनगरी सवारी चलाएको\n
+५. सवारीचालक अनुमतिपत्र प्राप्त नगरेको व्यक्तिलाई सवारी चलाउन दिएमा\n\n
+        (घ) रु १५०० जरिवाना हुने कसुरहरु\n\n
+१. ट्राफिक संकेत वा ईसारा उल्लंघन गरी सवारी चलाएको\n
+२. सवारी अड्याउन निषेध गरिएको ठाउँ वा समयमा सवारी अड्याएको\n
+३. सवारी मोड्न वा ध्वनि संकेत दिन निषेध गरिएको ठाउँमा सवारी मोडेको वा ध्वनि दिएको\n
+४. सडकमा गलत साईड तर्फबाट सवारी चलाएको\n
+५. एकतर्फि सडकमा सो विपरित सवारी चलाएको ।\n
+६. अवस्था ठिक नभएको सवारी चलाएको ।\n
+७. निर्धारित गतिभन्दा बढी गतिमा सवारी चलाएको \n
+८. राती बत्ती नबाली सवारी चलाएको\n
+९. सवारी चलाउन निषेध गरिएको ठाउँ वा समयमा सवारी चलाएको ।\n
+१०. नम्बर प्लेट नराखी सबारी चलाएको।\n
+११. सवारीको वजनको हद निर्धारण गरिएको ठाउँमा वजन भन्दा बढी वजनको सवारी चलाएको ।\n
+१२. पेटी नबाँधी वा हेलमेट नलगाई सवारी चलाएको ।\n
+१३. सवारीमा बस्ने वा राख्ने मानिस वा मालसामानको हद निर्धारित गरिएकोमा सो हद भन्दा बढी राखी    सवारी चलाएको ।\n
+१४. सार्वजनिक सवारीको चालकले यात्री लिन ईन्कार गरेको ।\n
+१५. निर्धारित भाडा दर भन्दा बढी भाडा लिई सवारी चलाएको ।\n
+१६. लापरवाहीका साथ सवारी चलाएको ।\n
+१७. बाटो ईजाजत पत्र नलिई सार्वजनिक सवारी चलाएको ।\n
+१८. सचाअप, सदकी, सईप साथमा नराखी सवारी चलाएको ।\n\n\n
+     २४ घण्टे पुर्जि प्राप्त गरेपछि को Procedure:\n\n
+१) ट्राफिक नियम उल्लंघन गरे पश्चात ट्राफिक प्रहरी ले सवारी तथा यातायात व्यवस्था ऐन २०४९ को दफा १६४ बमोजिम चालक वा व्यवस्थापक बाट स.चा.अ.प. स.द.की वा स.इ.प. लिएर २४ घण्टे पुर्जि दिने गरेको छ ।\n
+२) उक्त पुर्जि प्रत्येक ट्राफिक प्रहरी ले स्थलमा नै उपलव्ध गराउछन् ।\n
+३) पुर्जि प्राप्त गरेको २४ घण्टामा सम्वन्धित ट्राफिक प्रहरी कार्यालय मा संपर्क राखी जरिवाना रकम वुझाउनुपर्नेछ ।\n
+        </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="_15_2_1_1">15*2*1-1</string>
+    <string name="title_activity_process">Process</string>
+    <string name="title_activity_faq">faq</string>
+    <string name="title_activity_message">Message</string>
+    <string name="about">Nepal Driving License Test is a smartApp which is designed with simple and optimized user interface.Nepal Driving License Test has all the categories of Nepal Driving License Multiple Choice Question which are used in daily life in the road.</string>
+    <string name="title_activity_about__us">About_Us</string>
+
+</resources>
